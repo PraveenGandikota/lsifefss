@@ -38,7 +38,7 @@ function App() {
         </div>
       </div>
       <div className="content">
-        <h1 className='headidnan'>Saved Notes </h1>
+        <h1 className='headidnan'>Saved Notes</h1>
         <div className="notes-container">
           {showCard && (
             <div className="new-note note">
